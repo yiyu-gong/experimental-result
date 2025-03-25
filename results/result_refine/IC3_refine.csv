@@ -1,0 +1,705 @@
+Model,result,ic3_k,ic3_total_time,ic3_frame_sizes,ic3_solver,ind_solver,ic3_ind_gen_time,ic3_assert_time,ic3_check_sat_time,ic3_get_unsat_core_time,get_value_time,max_size
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/simulation/production_cell,valid,2,0.038,5,30,11,0.009,0.013,0.003,0.001,0.003,29012
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/simulation/production_cell_e7_207_e8_241,valid,2,0.035,5,30,11,0.009,0.013,0.003,0.001,0.003,30056
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/simulation/production_cell_e8_6,valid,2,0.041,5,29,10,0.009,0.014,0.003,0.001,0.003,29944
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/simulation/tramway_e7_1834,valid,2,0.033,2,17,7,0.005,0.009,0.002,0,0.001,28632
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/simulation/tramway_e7_1834_e7_2363,valid,2,0.045,3,21,8,0.008,0.012,0.003,0.001,0.003,29672
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/simulation/ums,valid,2,0.174,9,92,61,0.045,0.07,0.011,0.001,0.016,30788
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/simulation/ums_e8_1032,valid,2,0.062,3,20,7,0.009,0.018,0.003,0,0.005,30972
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave02,valid,2,0.016,0,4,0,0,0.004,0.001,0,0,87000
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave03,valid,2,0.016,0,4,0,0,0.004,0.002,0,0,89172
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave04,valid,2,0.018,0,4,0,0,0.004,0.002,0,0,89108
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave12,invalid,2,0.744,0,86,50,0.042,0.057,0.026,0.001,0.011,86812
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave14,invalid,2,0.401,0,66,36,0.027,0.043,0.017,0.001,0.008,89188
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave15,valid,2,0.023,0,4,0,0,0.007,0.002,0,0,82820
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave16,valid,2,0.019,0,4,0,0,0.004,0.002,0,0,82904
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave18,invalid,2,0.538,0,39,17,0.02,0.025,0.019,0,0.009,88872
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave20,invalid,2,0.022,0,5,0,0,0.005,0.003,0,0.001,99372
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave23,invalid,2,0.254,0,25,6,0.01,0.02,0.015,0,0.007,88920
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave25,invalid,2,0.02,0,5,0,0,0.005,0.003,0,0.001,95064
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave28,invalid,2,0.291,0,27,8,0.017,0.022,0.023,0.001,0.007,88704
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave33,invalid,2,2.283,0,339,274,0.87,0.145,1.176,0.003,0.024,88772
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave34,invalid,2,3.21,0,315,254,0.63,0.183,1.829,0.002,0.03,92812
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave35,invalid,2,4.102,0,396,319,0.602,0.162,2.668,0.004,0.031,91036
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave37,invalid,2,4.101,0,330,263,2.464,0.187,2.955,0.003,0.033,92796
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave38,invalid,2,5.026,0,353,278,1.459,0.201,3.318,0.002,0.038,94752
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave39,invalid,2,3.998,0,407,309,1.094,0.218,2.019,0.004,0.044,92696
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave40,invalid,2,0.021,0,5,0,0,0.005,0.003,0,0.001,92920
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/steam_boiler_no_arr1,valid,2,0.093,0,4,0,0,0.004,0.025,0,0,189496
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/steam_boiler_no_arr1_e4_23904_e4_2384,valid,2,0.092,0,4,0,0,0.003,0.025,0,0,189492
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_1,valid,2,0.029,1,14,7,0.003,0.004,0.003,0,0.001,57696
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_1_e1_14612_e1_268_e7_501,valid,2,0.041,2,19,9,0.005,0.006,0.004,0,0.002,57536
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_1_e1_14612_e2_2653_e7_4370,valid,2,0.03,1,14,7,0.004,0.004,0.003,0,0.001,59776
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_1_e1_3184_e7_1888,valid,2,0.04,2,19,9,0.004,0.006,0.004,0,0.002,57736
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_1_e1_5070,valid,2,0.04,2,24,14,0.006,0.007,0.004,0,0.002,59816
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_1_e2_1997,valid,2,0.05,2,24,14,0.011,0.009,0.006,0,0.002,57540
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_1_e2_1997_e7_3613_e2_3409,valid,2,0.039,1,14,7,0.004,0.005,0.003,0,0.001,57592
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_1_e3_11891_e7_4569_e4_4881,valid,2,0.039,2,17,7,0.003,0.005,0.004,0,0.002,57520
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_14_e7_3162,invalid,2,0.469,18 10,347,276,0.178,0.144,0.076,0.004,0.034,57660
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_14_e7_3162_e1_3998,invalid,2,0.736,18 7,714,645,0.428,0.285,0.15,0.002,0.033,57684
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_14_e7_3162_e2_753,invalid,2,0.226,8 4,132,90,0.056,0.049,0.031,0.001,0.02,59768
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_14_e7_3162_e3_4298,invalid,2,0.318,10 3,245,197,0.119,0.097,0.053,0.001,0.022,59744
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_14_e7_3162_e7_3528,invalid,2,0.35,16 9,234,171,0.105,0.104,0.046,0.002,0.028,59616
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_2,valid,2,0.029,1,7,0,0,0.003,0.004,0,0.001,59732
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_2_e1_2316,valid,2,0.028,1,7,0,0,0.003,0.004,0,0.001,61720
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_2_e2_3183_e1_2644,valid,2,0.028,1,7,0,0,0.003,0.004,0,0.001,59684
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_2_e2_3183_e2_3580,valid,2,0.028,1,9,2,0.001,0.003,0.004,0,0.001,59712
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_2_e2_3183_e3_5972,valid,2,0.029,1,9,2,0.001,0.003,0.005,0,0.001,61632
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_2_e2_4481,valid,2,0.03,1,9,2,0.002,0.004,0.004,0,0.001,59680
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_2_e7_25_e8_3171,valid,2,0.028,1,7,0,0,0.003,0.004,0,0.001,59752
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_3,valid,2,0.039,1,14,7,0.004,0.005,0.007,0,0.001,59772
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_3_e1_4783,valid,2,0.043,1,14,7,0.005,0.006,0.008,0,0.001,61864
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_3_e1_4783_e1_3755,valid,2,0.034,1,12,5,0.003,0.004,0.008,0,0.001,59604
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_3_e1_4783_e2_158,valid,2,0.035,1,14,7,0.004,0.005,0.007,0,0.001,59556
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_3_e1_4783_e3_511,valid,2,0.034,1,12,5,0.003,0.005,0.008,0,0.001,59620
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_3_e2_5343_e1_988,valid,2,0.034,1,14,7,0.004,0.004,0.006,0,0.001,59716
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_3_e3_3846,valid,2,0.032,1,14,7,0.004,0.004,0.007,0,0.001,59820
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_3_e3_5422_e1_2288,valid,2,0.037,1,14,7,0.004,0.005,0.008,0,0.001,61860
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_3_e3_5422_e2_3135,valid,2,0.037,1,14,7,0.004,0.004,0.007,0,0.001,59808
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_6,valid,2,0.034,1,12,5,0.004,0.005,0.003,0,0.001,57564
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_6_e7_5046_e7_3623,valid,2,0.027,1,7,0,0.001,0.003,0.002,0,0.001,57736
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_7,valid,2,0.042,2,20,10,0.005,0.007,0.004,0,0.002,59532
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_7_e2_2872_e2_5844,valid,2,0.041,2,20,10,0.005,0.007,0.004,0,0.002,57452
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_7_e2_2872_e3_2640,valid,2,0.041,2,20,10,0.006,0.007,0.005,0,0.002,59780
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_7_e7_3157_e2_2082,valid,2,0.059,3,30,17,0.01,0.01,0.007,0.001,0.002,57556
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_9,valid,2,0.043,2,24,14,0.006,0.006,0.004,0,0.002,61544
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_9_e7_1843,valid,2,0.044,2,22,12,0.006,0.007,0.005,0.001,0.002,59692
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_9_e7_1843_e1_5434,valid,2,0.03,1,12,5,0.004,0.005,0.003,0,0.001,57692
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_9_e7_1843_e2_1145,valid,2,0.029,1,12,5,0.003,0.004,0.003,0,0.001,57732
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_9_e7_1843_e3_5316,valid,2,0.029,1,12,5,0.003,0.004,0.003,0,0.001,57496
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_9_e7_1843_e7_2225,valid,2,0.044,2,22,12,0.006,0.008,0.004,0,0.002,57508
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all,valid,2,0.077,4,33,17,0.011,0.013,0.012,0.001,0.003,61808
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e1_4022_e1_1759,valid,2,0.096,5,41,22,0.015,0.017,0.013,0,0.004,61596
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e1_4022_e2_267,valid,2,0.075,4,33,17,0.01,0.012,0.01,0.001,0.003,61680
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e1_4022_e3_3628,valid,2,0.075,4,33,17,0.011,0.013,0.011,0,0.004,61540
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e1_4037,valid,2,0.077,4,31,15,0.01,0.011,0.013,0,0.003,61812
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e2_6104,valid,2,0.087,4,31,15,0.013,0.016,0.013,0,0.004,61804
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e2_6104_e1_6205,valid,2,0.102,4,33,17,0.013,0.021,0.015,0.001,0.005,61764
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e2_6104_e2_3308,valid,2,0.078,4,35,19,0.012,0.014,0.011,0,0.004,61548
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e2_6104_e3_2607,valid,2,0.092,4,31,15,0.011,0.016,0.011,0.001,0.004,61596
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e3_4821_e1_1318,valid,2,0.075,4,31,15,0.01,0.012,0.012,0.001,0.003,61820
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e3_4821_e2_1089,valid,2,0.077,4,33,17,0.01,0.013,0.01,0,0.003,61772
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e3_4821_e4_1791,valid,2,0.094,5,41,22,0.013,0.015,0.015,0.001,0.004,61768
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e3_4821_e5_1536,valid,2,0.075,4,31,15,0.01,0.011,0.01,0,0.003,63900
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all_e3_5957,valid,2,0.092,5,43,24,0.015,0.018,0.012,0,0.004,61712
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_1,valid,2,0.019,1,7,0,0,0.002,0.003,0,0.001,37072
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_1_e1_1092_e2_1853,valid,2,0.02,1,7,0,0,0.003,0.003,0,0.001,36888
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_10,valid,2,0.019,1,12,5,0.002,0.003,0.002,0,0.001,35052
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_10_e7_919_e2_3192,valid,2,0.022,1,12,5,0.003,0.004,0.003,0,0.001,35040
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_2,valid,2,0.023,1,12,5,0.003,0.004,0.005,0,0.001,36932
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_3,valid,2,0.031,2,22,12,0.007,0.006,0.004,0,0.001,39024
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_3_e2_2236,valid,2,0.031,2,22,12,0.006,0.007,0.003,0,0.001,37212
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_3_e2_2236_e1_2305,valid,2,0.03,2,22,12,0.006,0.007,0.004,0,0.001,35048
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_3_e2_2236_e2_1058,valid,2,0.029,2,22,12,0.006,0.007,0.003,0,0.001,34960
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_3_e2_2236_e7_3681,valid,2,0.029,2,22,12,0.006,0.006,0.004,0,0.001,37068
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e1_2375,invalid,2,0.4,12 5,417,366,0.248,0.168,0.095,0.002,0.018,36752
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e4_1464,invalid,2,0.355,12 5,421,370,0.234,0.15,0.092,0.002,0.014,39068
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_5,valid,2,0.022,1,12,5,0.002,0.003,0.003,0,0.001,36868
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_5_e1_2552_e7_1169,valid,2,0.031,2,22,12,0.006,0.007,0.003,0,0.001,34924
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_5_e2_2229,valid,2,0.031,2,22,12,0.006,0.007,0.004,0,0.001,34776
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_5_e2_2884_e1_2678,valid,2,0.022,1,12,5,0.003,0.004,0.002,0,0.001,36912
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_5_e2_2884_e2_1492,valid,2,0.021,1,12,5,0.002,0.003,0.003,0,0.001,35040
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_5_e2_2884_e3_1882,valid,2,0.026,1,12,5,0.002,0.004,0.003,0.001,0.001,34892
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_5_e2_2884_e7_3594,valid,2,0.03,2,22,12,0.006,0.007,0.003,0,0.001,34892
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_8,valid,2,0.022,1,11,4,0.002,0.003,0.002,0,0.001,36888
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_8_e2_1711,valid,2,0.021,1,11,4,0.002,0.003,0.002,0,0.001,35088
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_8_e2_1711_e1_1489,valid,2,0.02,1,11,4,0.003,0.003,0.002,0,0.001,35032
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_8_e2_1711_e2_2673,valid,2,0.023,1,11,4,0.003,0.003,0.002,0,0.001,36928
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_8_e2_1711_e3_1753,valid,2,0.019,1,11,4,0.002,0.003,0.002,0,0.001,35064
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_9,valid,2,0.022,1,14,7,0.003,0.003,0.002,0,0.001,34900
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_9_e7_170_e3_3647,valid,2,0.026,1,14,7,0.004,0.006,0.003,0,0.001,34828
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3,valid,3,0.085,1 0,75,49,0.028,0.025,0.015,0.001,0.005,36776
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3_e1_3233_e2_2392,valid,3,0.105,1 0,75,49,0.03,0.027,0.017,0.001,0.008,37032
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3_e2_2086_e1_3235,valid,3,0.104,1 0,75,49,0.031,0.029,0.02,0.001,0.008,36880
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3_e2_2086_e2_2689,valid,2,0.074,5,46,27,0.019,0.019,0.01,0.001,0.004,37140
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3_e2_2952,valid,2,0.065,5,48,29,0.016,0.016,0.01,0.001,0.004,39100
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3_e3_314_e1_1979,invalid,2,0.448,11 5,482,428,0.291,0.196,0.112,0.002,0.016,37016
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3_e3_314_e4_897,invalid,2,0.424,11 5,476,422,0.273,0.181,0.105,0.002,0.017,36960
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_all,valid,2,0.051,4,30,14,0.008,0.011,0.008,0,0.003,39088
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_all_e1_1207_e2_3220,valid,2,0.047,4,30,14,0.009,0.011,0.006,0.001,0.003,38960
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_all_e2_2924_e1_768,valid,2,0.05,4,30,14,0.008,0.011,0.007,0.001,0.003,41116
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_1a_e2_284_e7_998,invalid,2,0.049,2 1,28,7,0.004,0.009,0.006,0,0.006,34828
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_1b,valid,2,0.021,1,7,0,0.001,0.003,0.003,0,0.001,34820
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_1b_e1_1139_e2_2893,valid,2,0.021,1,7,0,0,0.003,0.003,0,0.001,36840
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_1b_e2_3049_e1_946,valid,2,0.019,1,7,0,0.001,0.003,0.003,0,0.001,37032
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_1b_e3_671_e6_1974,valid,2,0.021,1,7,0,0.001,0.003,0.003,0,0.001,35008
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_rt,valid,2,0.024,1,12,5,0.004,0.004,0.005,0,0.001,38952
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_rt_e1_913_e2_3353,valid,2,0.022,1,12,5,0.003,0.003,0.004,0,0.001,37128
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_rt_e2_3460_e1_1455,valid,2,0.023,1,12,5,0.003,0.003,0.004,0,0.001,37068
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_2,valid,2,0.024,1,9,2,0.001,0.003,0.005,0,0.001,40992
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_2_e1_834_e2_3395,valid,2,0.021,1,9,2,0.001,0.003,0.003,0,0.001,41180
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_3,valid,2,0.033,1,13,6,0.006,0.006,0.008,0.001,0.001,41080
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_4,valid,2,0.031,2,22,12,0.007,0.007,0.004,0,0.001,41188
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_4_e7_2651_e7_2847,valid,2,0.034,2,19,9,0.006,0.006,0.004,0.001,0.002,40944
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_5,valid,2,0.022,1,12,5,0.003,0.004,0.003,0,0.001,39084
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_5_e7_692_e7_2865,valid,2,0.023,1,12,5,0.003,0.004,0.003,0,0.001,41168
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_1,valid,2,0.025,2,22,12,0.006,0.006,0.003,0,0.001,32192
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_2,valid,2,0.015,1,12,5,0.002,0.002,0.002,0,0,32200
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_all,valid,3,0.054,1 0,80,57,0.024,0.021,0.009,0.001,0.002,32908
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i3_e1_447,invalid,2,0.034,2 1,31,10,0.005,0.008,0.005,0,0.004,32612
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i3_e1_447_e3_1180,valid,2,0.021,2,20,10,0.006,0.005,0.003,0,0.001,32192
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i3_e1_447_e7_2194,invalid,2,0.03,2 1,26,5,0.003,0.006,0.004,0.001,0.004,32776
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i4,invalid,2,0.057,4 2,71,42,0.018,0.018,0.009,0.001,0.005,32720
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i4_e4_1689,invalid,2,0.074,4 2,77,46,0.023,0.024,0.013,0,0.007,33792
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i4_e8_1381_e1_1837,invalid,2,0.094,5 2,122,88,0.04,0.037,0.015,0.001,0.006,33584
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i4_e8_1381_e4_313,invalid,2,0.089,5 2,122,88,0.039,0.036,0.015,0.001,0.007,33680
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_1,valid,2,0.015,1,12,5,0.002,0.003,0.002,0,0,31940
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_1_e2_982_e7_492,valid,2,0.025,2,22,12,0.006,0.006,0.003,0,0.001,31992
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_1_e3_1884_e7_1875,valid,2,0.023,2,17,7,0.004,0.006,0.003,0,0.001,32032
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2,valid,2,0.016,1,7,0,0,0.003,0.002,0,0,31904
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e1_1753,valid,2,0.019,1,7,0,0.001,0.003,0.003,0.001,0,31760
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e2_155,valid,2,0.016,1,7,0,0,0.003,0.002,0,0.001,33564
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e2_1599_e8_1334,valid,2,0.039,1,7,0,0.001,0.005,0.003,0,0.001,31860
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e3_929,valid,2,0.017,1,7,0,0,0.003,0.002,0,0,31876
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e3_929_e4_578,valid,2,0.017,1,7,0,0.001,0.003,0.002,0,0.001,31856
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e3_929_e5_1826,valid,2,0.021,1,7,0,0,0.003,0.003,0,0.001,31868
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e3_929_e6_2707,valid,2,0.023,1,7,0,0,0.003,0.003,0,0.001,31868
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e3_929_e8_1167,valid,2,0.015,1,7,0,0,0.003,0.002,0,0.001,31780
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e8_101,valid,2,0.021,1,7,0,0.001,0.003,0.002,0,0,31776
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e8_926_e1_1065,valid,2,0.023,1,7,0,0,0.003,0.002,0,0,31992
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_2_e8_926_e8_2138,valid,2,0.019,1,7,0,0.001,0.003,0.002,0,0,31852
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MOESI_all,valid,2,0.03,3,25,12,0.006,0.008,0.005,0,0.001,32568
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_1,valid,2,0.014,1,12,5,0.002,0.003,0.002,0,0,32288
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_123,valid,2,0.025,3,23,10,0.005,0.007,0.004,0,0.001,33152
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_123_e7_837_e7_1262,valid,2,0.025,3,23,10,0.006,0.008,0.003,0,0.001,32984
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_123_e7_856,valid,2,0.022,3,15,2,0.002,0.004,0.003,0,0.001,33168
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_123_e8_953,valid,2,0.026,3,23,10,0.005,0.006,0.004,0,0.001,32712
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_123_e8_953_e7_1465,valid,2,0.024,3,13,0,0.002,0.005,0.003,0,0.001,33384
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_123_e8_953_e8_941,valid,2,0.024,3,23,10,0.005,0.006,0.004,0,0.001,31964
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_2,valid,2,0.014,1,9,2,0.001,0.002,0.001,0,0,32280
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_2_e8_1118_e7_1043,valid,2,0.012,1,7,0,0,0.002,0.001,0,0,31840
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_2_e8_1118_e8_1177,valid,2,0.015,1,9,2,0.001,0.003,0.002,0,0,32164
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_2_e8_656,valid,2,0.013,1,7,0,0,0.002,0.001,0,0,32032
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_3,valid,2,0.015,1,11,4,0.002,0.003,0.002,0,0,31996
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_3_e7_1444_e7_638,valid,2,0.015,1,11,4,0.002,0.003,0.002,0,0,32284
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_3_e7_425,valid,2,0.015,1,11,4,0.002,0.003,0.002,0,0,31964
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_3_e8_1329_e7_1062,valid,2,0.015,1,11,4,0.002,0.003,0.002,0,0,32124
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_3_e8_1329_e8_320,valid,2,0.015,1,11,4,0.002,0.003,0.002,0,0,32124
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_3_e8_1708,valid,2,0.015,1,11,4,0.002,0.003,0.002,0,0,32004
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_4,valid,2,0.016,1,15,8,0.003,0.003,0.002,0,0,31952
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_4_e8_420_e7_572,valid,2,0.015,1,15,8,0.003,0.003,0.002,0,0,32252
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_4_e8_420_e8_1525,valid,2,0.016,1,15,8,0.003,0.003,0.002,0,0,32284
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_4_e8_974,valid,2,0.017,1,15,8,0.003,0.004,0.002,0,0.001,32316
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_6,valid,2,0.024,3,23,10,0.006,0.007,0.003,0,0.001,32604
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_6_e7_938_e2_1012,valid,2,0.023,3,18,5,0.003,0.006,0.003,0,0.001,32768
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_6_e8_1147_e2_1326,valid,2,0.026,3,27,14,0.007,0.008,0.004,0,0.001,33268
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_all,valid,2,0.032,4,34,18,0.009,0.01,0.005,0.001,0.002,32920
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_all_e7_907,valid,2,0.031,4,32,16,0.008,0.009,0.005,0,0.002,32828
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_all_e7_907_e7_1363,valid,2,0.026,4,22,6,0.004,0.007,0.004,0.001,0.002,32904
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_all_e8_251,valid,2,0.033,4,34,18,0.009,0.01,0.004,0,0.002,32800
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/_6counters_e8_371_e2_80,valid,2,0.008,0,4,0,0,0.001,0.001,0,0,31088
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_1_e2_3,valid,2,0.015,1,15,8,0.004,0.005,0.002,0,0,32216
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_1_e3_389,valid,2,0.015,1,10,3,0.003,0.004,0.001,0,0,32440
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_1_e3_389_e4_294,valid,2,0.015,1,15,8,0.004,0.005,0.002,0,0,32276
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_1_e3_389_e5_5,valid,2,0.015,1,10,3,0.002,0.004,0.002,0,0,32532
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_1_e7_217_e2_352,valid,2,0.023,3,19,6,0.005,0.008,0.002,0,0.001,32460
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_1_e7_217_e3_132,valid,2,0.023,3,20,7,0.007,0.008,0.002,0,0.001,32516
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_2_e2_63,valid,2,0.019,2,14,4,0.004,0.006,0.002,0,0.001,32404
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_2_e3_329_e4_1,valid,2,0.018,2,14,4,0.004,0.006,0.002,0,0.001,32264
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_2_e3_329_e5_124,valid,2,0.019,2,16,6,0.005,0.006,0.002,0,0.001,32168
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_2_e3_99,valid,2,0.018,2,14,4,0.004,0.005,0.002,0,0.001,32024
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_2_e7_145_e2_169,valid,2,0.023,3,19,6,0.006,0.008,0.002,0,0.001,32592
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_2_e7_145_e3_222,valid,2,0.027,4,24,8,0.007,0.009,0.003,0.001,0.001,32460
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_3_e2_63,valid,2,0.016,1,11,4,0.003,0.005,0.001,0,0,32544
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_3_e3_207,valid,2,0.015,1,11,4,0.002,0.004,0.001,0,0.001,32208
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_3_e3_442_e4_165,valid,2,0.014,1,11,4,0.003,0.004,0.001,0,0,32608
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_3_e3_442_e5_260,valid,2,0.015,1,11,4,0.003,0.004,0.001,0,0,32424
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_3_e7_334_e3_42,valid,2,0.031,4,33,17,0.011,0.012,0.004,0,0.001,32408
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ex8,invalid,2,0.01,0,5,0,0,0.001,0.001,0,0,32636
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ex8_e7_74,invalid,2,0.01,0,5,0,0,0.001,0.001,0,0,32656
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ex8_e7_74_e7_740,invalid,2,0.009,0,5,0,0,0.001,0.001,0,0,32752
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ex8_e7_74_e8_302,invalid,2,0.009,0,5,0,0,0.001,0.001,0,0,32600
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ex8_e8_220,invalid,2,0.011,0,5,0,0,0.001,0.001,0,0,32424
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ex8_e8_220_e7_249,invalid,2,0.01,0,5,0,0,0.001,0.001,0,0,32784
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_1,valid,2,0.032,3,20,7,0.004,0.007,0.004,0,0.002,36892
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_1_e7_1669,valid,2,0.036,3,24,11,0.006,0.008,0.004,0,0.002,36988
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_3,valid,2,0.029,2,18,8,0.005,0.007,0.003,0,0.001,38912
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_3_e7_1312_e8_1916,valid,2,0.029,2,18,8,0.006,0.007,0.003,0,0.001,39188
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_3_e8_1703,valid,2,0.03,2,18,8,0.007,0.007,0.003,0,0.001,39172
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_3_e8_1703_e8_2560,valid,2,0.028,2,18,8,0.005,0.006,0.003,0,0.002,38776
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_4,valid,2,0.029,2,20,10,0.005,0.006,0.003,0,0.001,41248
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_4_e7_1775_e7_3320,valid,2,0.029,2,17,7,0.005,0.007,0.003,0,0.001,39100
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_5,valid,2,0.028,2,15,5,0.004,0.006,0.003,0,0.001,38936
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_5_e7_3307,valid,2,0.027,2,17,7,0.004,0.005,0.003,0,0.001,39080
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_6,valid,2,0.028,2,20,10,0.005,0.006,0.004,0,0.001,38964
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_6_e7_1096_e7_2688,valid,2,0.027,2,15,5,0.003,0.006,0.003,0,0.001,38936
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_7_e2_2724_e7_524,valid,2,0.078,6,56,34,0.019,0.026,0.009,0.001,0.004,38992
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_7_e3_59_e7_2122,valid,2,0.074,6,54,32,0.018,0.022,0.009,0.001,0.004,39240
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_7_e7_3176,valid,2,0.076,6,54,32,0.018,0.024,0.009,0.001,0.004,41112
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_7_e7_3176_e1_2924,valid,2,0.082,7,60,35,0.02,0.028,0.009,0.001,0.004,38908
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_7_e8_2126_e7_78,valid,2,0.064,6,39,17,0.012,0.019,0.007,0.001,0.004,39136
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_all,valid,2,0.065,6,52,30,0.017,0.018,0.009,0.001,0.004,39156
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_all_e1_2706_e7_1776,valid,2,0.071,6,46,24,0.015,0.02,0.008,0.001,0.005,40992
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_all_e2_1117_e7_553,valid,2,0.069,6,46,24,0.014,0.02,0.008,0.001,0.004,41016
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_all_e3_557_e7_3464,valid,3,0.104,1 0,105,73,0.035,0.038,0.013,0.001,0.006,43084
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_all_e7_591,valid,2,0.067,6,39,17,0.012,0.02,0.007,0.001,0.004,39080
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_all_e8_505_e7_2450,valid,2,0.076,7,47,22,0.015,0.023,0.009,0.001,0.005,43216
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/traffic,valid,2,0.021,3,26,13,0.007,0.008,0.003,0,0.001,32440
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/peterson_1,valid,2,0.041,2,22,12,0.007,0.007,0.005,0,0.002,57472
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/peterson_2,valid,2,0.04,2,20,10,0.005,0.007,0.004,0,0.002,57468
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/peterson_3,valid,2,0.028,1,12,5,0.003,0.004,0.003,0,0.001,57728
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/peterson_vt,invalid,2,0.247,9 5,171,126,0.07,0.062,0.042,0.001,0.017,61876
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/readwrit,valid,2,0.025,1,10,3,0.003,0.004,0.004,0,0.001,32600
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_1,valid,2,0.037,2,22,12,0.007,0.007,0.004,0,0.001,55456
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_10_e7_106_e7_2564,valid,2,0.022,1,7,0,0,0.003,0.002,0,0.001,53360
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_2,valid,2,0.045,3,25,12,0.007,0.008,0.004,0.001,0.002,55448
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_5,valid,2,0.038,2,22,12,0.008,0.009,0.004,0,0.002,53556
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_5_e7_3972,valid,2,0.028,1,12,5,0.003,0.005,0.003,0,0.001,55620
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_1_e7_1621,invalid,2,0.093,5 4,78,44,0.023,0.031,0.014,0.001,0.009,33444
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_4,invalid,2,0.046,2 1,34,13,0.006,0.012,0.007,0,0.005,33052
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_4_e7_2197,invalid,2,0.082,4 3,61,32,0.018,0.027,0.011,0,0.008,33012
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_5,invalid,2,0.073,2 1,61,36,0.02,0.025,0.011,0,0.007,33304
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_6,invalid,3,0.346,7 4 2,301,244,0.177,0.156,0.061,0.001,0.024,35400
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_7,invalid,4,0.427,10 9 7 4,556,477,0.273,0.199,0.089,0.001,0.031,35516
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_1,valid,2,0.027,2,20,10,0.005,0.007,0.002,0,0.001,32336
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_1_e7_184_e3_299,valid,2,0.025,3,23,10,0.006,0.008,0.003,0.001,0.001,32336
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_3_e2_695,valid,2,0.016,1,14,7,0.003,0.004,0.002,0,0,32372
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_3_e8_33_e2_1010,valid,2,0.015,1,14,7,0.003,0.004,0.002,0,0,32320
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_4,valid,2,0.02,2,20,10,0.005,0.006,0.002,0,0.001,32408
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_4_e3_57_e4_1047,valid,2,0.014,1,12,5,0.002,0.003,0.002,0,0,32468
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_4_e3_57_e6_784,valid,2,0.022,2,20,10,0.005,0.006,0.003,0,0.001,32336
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_4_e7_592,valid,2,0.019,2,16,6,0.004,0.006,0.002,0,0.001,32312
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_4_e7_592_e7_265,valid,2,0.02,2,18,8,0.004,0.005,0.002,0,0.001,31944
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_4_e8_118,valid,2,0.021,2,20,10,0.005,0.006,0.003,0,0.001,32344
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_4_e8_118_e7_178,valid,2,0.018,2,15,5,0.003,0.005,0.002,0,0.001,32340
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e2_405_e2_1083,invalid,2,0.268,8 1,325,276,0.153,0.143,0.042,0.001,0.014,34748
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e2_405_e3_473,invalid,2,0.269,8 1,325,276,0.15,0.142,0.043,0.001,0.015,34984
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e2_405_e8_1055,invalid,2,0.291,8 1,325,276,0.164,0.153,0.048,0.001,0.015,34968
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e3_11_e1_429,invalid,2,0.36,8 1,381,332,0.213,0.185,0.061,0.001,0.016,35524
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e3_11_e5_24,invalid,2,0.545,8 1,381,332,0.359,0.291,0.107,0.003,0.018,35496
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e3_661,invalid,2,0.411,8 1,381,332,0.258,0.213,0.077,0.002,0.017,35260
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e7_244_e2_693,invalid,2,0.306,8 1,309,260,0.184,0.156,0.054,0.001,0.015,34812
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e7_244_e3_1071,invalid,2,0.413,9 1,372,319,0.23,0.206,0.072,0.001,0.025,35460
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_6_e2_589_e2_506,invalid,2,0.276,12 3,354,295,0.15,0.139,0.045,0.002,0.016,35088
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_6_e2_589_e3_349,invalid,2,0.322,11 2,366,310,0.182,0.16,0.056,0.002,0.018,35080
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_6_e2_893,invalid,2,0.301,12 3,354,295,0.165,0.145,0.052,0.002,0.017,35004
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_6_e3_294_e1_956,invalid,2,0.376,11 2,393,335,0.223,0.196,0.067,0.002,0.02,35432
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_6_e3_294_e3_47,invalid,2,0.398,11 2,393,335,0.22,0.199,0.071,0.002,0.024,35456
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_6_e3_294_e5_979,invalid,2,0.439,11 2,393,335,0.259,0.225,0.081,0.002,0.021,35608
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/cd_e7_621_e7_669,invalid,5,0.179,7 4 3 2 1,310,222,0.088,0.076,0.029,0.001,0.02,33468
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/cd_e7_8,invalid,2,0.147,8 0,214,165,0.07,0.068,0.022,0.001,0.011,34064
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/hysteresis_1,valid,2,0.012,0,4,0,0,0.001,0.002,0,0,31020
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e1_1116_e3_287,invalid,2,1.535,27 11,1362,1260,1.14,0.924,0.25,0.003,0.054,42896
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e2_704_e3_76,invalid,4,4.792,26 20 17 9,4253,4056,3.929,3.029,0.756,0.005,0.229,97152
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/PRODUCER_CONSUMER_1,valid,2,0.017,1,16,9,0.004,0.004,0.002,0,0.001,33244
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/PRODUCER_CONSUMER_2,valid,2,0.016,1,15,8,0.004,0.004,0.002,0,0,32312
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/PRODUCER_CONSUMER_3,valid,2,0.015,1,7,0,0.001,0.003,0.001,0,0.001,32132
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/PRODUCER_CONSUMER_all,valid,2,0.023,2,20,10,0.005,0.006,0.003,0,0.001,32708
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed_e7_207,valid,2,0.009,0,4,0,0,0.001,0.001,0,0,31096
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed_e7_207_e7_538,valid,2,0.008,0,4,0,0,0.001,0.001,0,0,31080
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed_e7_207_e8_507,valid,2,0.009,0,4,0,0,0.001,0.001,0,0,31064
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed_e8_649,valid,2,0.009,0,4,0,0,0.001,0.001,0,0,31016
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed_e8_649_e7_709,valid,2,0.012,0,4,0,0,0.001,0.001,0,0,31136
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/microwave02,valid,2,0.021,0,4,0,0,0.005,0.007,0,0,91196
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/microwave15,valid,2,0.021,0,4,0,0,0.005,0.006,0,0,84792
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/microwave16,valid,2,0.021,0,4,0,0,0.005,0.006,0,0,85028
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/steam_boiler_no_arr1,valid,2,0.288,0,4,0,0,0.003,0.225,0,0,183300
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/steam_boiler_no_arr1_e4_23904_e4_2384,valid,2,0.12,0,4,0,0,0.003,0.054,0,0,185456
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_1,valid,2,0.048,1,13,5,0.003,0.003,0.011,0,0.002,57664
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_1_e1_14612_e1_268_e7_501,valid,2,0.052,1,13,5,0.003,0.003,0.012,0,0.002,57672
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_1_e1_14612_e2_2653_e7_4370,valid,2,0.086,2,23,12,0.01,0.007,0.023,0,0.003,57764
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_1_e1_3184_e7_1888,valid,2,0.075,2,23,12,0.008,0.006,0.017,0,0.002,57532
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_1_e1_5070,valid,2,0.073,2,24,13,0.009,0.005,0.018,0,0.002,59848
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_1_e2_1997,valid,2,0.097,2,24,13,0.008,0.006,0.045,0,0.002,57540
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_1_e2_1997_e7_3613_e2_3409,valid,2,0.108,2,23,12,0.009,0.007,0.049,0,0.002,57568
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_1_e3_11891_e7_4569_e4_4881,valid,2,0.052,1,13,5,0.003,0.003,0.011,0,0.002,57764
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_14_e7_3162_e7_3528,invalid,2,107.089,20 9,515,430,95.237,0.255,106.322,0.006,0.065,423632
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_6,valid,2,0.048,1,12,4,0.002,0.004,0.01,0,0.002,57752
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_6_e7_5046_e7_3623,valid,2,0.047,1,8,0,0,0.002,0.008,0,0.002,57612
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_8,valid,2,0.035,1,12,4,0.003,0.003,0.006,0,0.001,37048
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_8_e2_1711,valid,2,0.035,1,12,4,0.003,0.003,0.006,0,0.001,35128
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_8_e2_1711_e1_1489,valid,2,0.049,1,12,4,0.004,0.003,0.007,0,0.001,34804
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_8_e2_1711_e2_2673,valid,2,0.036,1,12,4,0.003,0.003,0.006,0,0.001,34928
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_8_e2_1711_e3_1753,valid,2,0.037,1,12,4,0.002,0.003,0.006,0,0.001,35072
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_9,valid,2,0.166,2,24,13,0.052,0.007,0.121,0,0.002,38104
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_9_e7_170_e3_3647,valid,2,0.321,2,27,16,0.157,0.008,0.277,0,0.002,38368
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/ILLINOIS_1,valid,2,0.051,2,16,5,0.004,0.005,0.012,0,0.002,39076
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/ILLINOIS_5,valid,2,0.049,2,16,5,0.003,0.005,0.01,0,0.002,38908
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/ILLINOIS_5_e7_692_e7_2865,valid,2,0.047,2,11,0,0.001,0.004,0.009,0,0.002,41120
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MESI_2,valid,2,0.026,1,12,4,0.002,0.002,0.005,0,0.001,31812
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MESI_i3_e1_447,invalid,2,0.918,2 1,31,9,0.006,0.008,0.871,0,0.006,44776
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MESI_i3_e1_447_e3_1180,valid,2,1.975,2,20,9,0.007,0.005,1.947,0,0.001,44764
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MESI_i3_e1_447_e7_2194,invalid,2,1.011,2 1,31,9,0.011,0.013,0.935,0.001,0.006,43684
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MOESI_1,valid,2,0.041,1,13,5,0.003,0.003,0.016,0,0.001,32932
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MOESI_1_e2_982_e7_492,valid,2,0.046,2,18,7,0.005,0.005,0.014,0,0.002,33920
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MOESI_1_e3_1884_e7_1875,valid,2,0.031,1,8,0,0,0.002,0.007,0,0.001,32648
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_1,valid,2,0.026,1,13,5,0.002,0.002,0.004,0,0.001,32068
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_123,valid,2,38.683,3,34,20,0.354,0.014,38.609,0.001,0.005,87756
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_123_e7_837_e7_1262,valid,2,77.731,3,32,18,0.265,0.008,77.691,0.001,0.002,87436
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_123_e7_856,valid,2,34.068,3,29,15,0.151,0.008,34.026,0.001,0.002,77952
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_123_e8_953,valid,2,31.719,3,34,20,0.285,0.01,31.676,0.001,0.002,86604
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_123_e8_953_e7_1465,valid,2,35,3,25,11,0.133,0.008,34.957,0,0.002,72300
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_123_e8_953_e8_941,valid,2,44.85,3,32,18,0.237,0.008,44.81,0.001,0.002,81896
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_2,valid,2,16.952,1,14,6,0.079,0.004,16.926,0,0.001,62692
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_2_e8_1118_e7_1043,valid,2,7.308,1,10,2,0.011,0.002,7.285,0,0.001,54824
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_2_e8_1118_e8_1177,valid,2,11.612,1,14,6,0.075,0.004,11.588,0,0.001,59464
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_2_e8_656,valid,2,10.379,1,14,6,0.073,0.004,10.355,0,0.001,54252
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_3,valid,2,8.565,1,14,6,0.058,0.004,8.539,0,0.001,55612
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_3_e7_1444_e7_638,valid,2,7.449,1,15,7,0.047,0.004,7.424,0,0.001,57540
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_3_e7_425,valid,2,4.943,1,10,2,0.01,0.003,4.918,0,0.001,48872
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_3_e8_1329_e7_1062,valid,2,7.858,1,10,2,0.015,0.003,7.834,0,0.001,51432
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_3_e8_1329_e8_320,valid,2,13.099,1,14,6,0.084,0.004,13.076,0,0.001,62244
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_3_e8_1708,valid,2,12.106,1,14,6,0.105,0.004,12.081,0,0.001,60436
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_4,valid,2,0.027,1,16,8,0.004,0.004,0.005,0,0.001,31920
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_4_e8_420_e7_572,valid,2,0.027,1,16,8,0.003,0.004,0.004,0,0.001,33508
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_4_e8_420_e8_1525,valid,2,0.027,1,16,8,0.003,0.003,0.005,0,0.001,33656
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_4_e8_974,valid,2,0.027,1,16,8,0.003,0.003,0.004,0,0.001,31960
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_all,valid,2,43.283,4,43,26,0.269,0.014,43.226,0.001,0.003,81244
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_all_e7_907,valid,2,15.849,4,35,18,0.107,0.01,15.796,0.001,0.002,63992
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_all_e7_907_e7_1363,valid,2,26.336,4,42,25,0.279,0.014,26.279,0.001,0.003,76224
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_all_e8_251,valid,2,28.116,4,43,26,0.273,0.014,28.056,0.001,0.003,74532
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/_6counters_e8_371_e2_80,valid,2,0.011,0,4,0,0,0.001,0.001,0,0,28676
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/durationThm_2_e2_63,valid,2,0.036,1,12,4,0.003,0.003,0.016,0,0.001,32400
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/durationThm_2_e3_329_e4_1,valid,2,0.036,1,12,4,0.003,0.004,0.016,0,0.001,32448
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/durationThm_2_e7_145_e2_169,valid,2,0.041,3,20,6,0.006,0.007,0.01,0,0.002,33580
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_1,valid,2,0.056,3,14,0,0.001,0.005,0.006,0.001,0.002,37056
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_1_e7_1669,valid,2,0.057,3,18,4,0.003,0.008,0.007,0,0.002,36972
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_2,invalid,2,0.119,4 1,38,6,0.006,0.013,0.016,0.001,0.012,41152
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_4,valid,2,0.052,2,22,11,0.006,0.006,0.006,0,0.002,39140
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_4_e7_1775_e7_3320,valid,2,0.049,2,20,9,0.005,0.005,0.006,0,0.002,41008
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_5,valid,2,0.048,2,15,4,0.003,0.005,0.005,0,0.002,39024
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_5_e7_3307,valid,2,0.048,2,19,8,0.004,0.006,0.006,0,0.002,41176
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_6,valid,2,0.048,2,15,4,0.002,0.004,0.005,0,0.002,41100
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_6_e7_1096_e7_2688,valid,2,0.043,2,15,4,0.002,0.005,0.005,0,0.002,39152
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_7,valid,2,0.126,6,56,33,0.019,0.018,0.017,0.001,0.005,39212
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_7_e1_2192_e1_1852,valid,2,0.175,8,75,46,0.028,0.029,0.025,0.002,0.006,41088
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_7_e2_2724_e7_524,valid,2,0.12,6,49,26,0.016,0.018,0.018,0.001,0.005,38956
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_7_e3_59_e7_2122,valid,2,0.12,6,50,27,0.018,0.021,0.018,0.001,0.005,41204
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_7_e7_3176,valid,2,0.135,6,58,35,0.026,0.027,0.022,0.001,0.004,41048
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_7_e7_3176_e1_2924,valid,3,0.278,2 0,188,148,0.116,0.054,0.09,0.001,0.01,41200
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_7_e8_2126_e7_78,valid,2,0.124,6,60,37,0.021,0.022,0.018,0.001,0.005,39128
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_all_e1_2706_e7_1776,valid,2,0.119,6,54,31,0.018,0.018,0.016,0.001,0.004,41204
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_all_e2_1117_e7_553,valid,2,0.113,6,35,12,0.011,0.017,0.015,0.001,0.004,39152
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_all_e3_557_e7_3464,valid,2,0.125,6,59,36,0.02,0.02,0.018,0.001,0.005,38964
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_all_e7_591,valid,3,0.199,2 0,143,105,0.054,0.041,0.037,0.001,0.01,41104
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_all_e8_505_e7_2450,valid,2,0.14,7,66,40,0.022,0.022,0.018,0.001,0.005,41096
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_1,valid,2,0.039,1,13,5,0.003,0.003,0.008,0,0.001,53512
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_2,valid,2,0.05,2,20,9,0.005,0.005,0.01,0,0.002,53416
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/swimmingpool_4,invalid,2,0.069,2 1,22,0,0.002,0.009,0.016,0,0.006,33640
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/swimmingpool_4_e7_2197,invalid,2,0.076,2 1,22,0,0.002,0.01,0.018,0,0.006,34284
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/swimmingpool_5,invalid,2,0.124,2 1,49,23,0.031,0.02,0.047,0,0.008,38528
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_3_e2_695,valid,2,0.023,1,13,5,0.003,0.003,0.003,0,0.001,33472
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_3_e8_33_e2_1010,valid,2,0.023,1,13,5,0.003,0.003,0.003,0,0.001,33492
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_4_e3_57_e4_1047,valid,2,0.022,1,12,4,0.002,0.003,0.003,0,0.001,32872
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_5_e2_405_e2_1083,invalid,2,0.331,10 2,216,163,0.169,0.071,0.154,0.002,0.018,43596
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_5_e2_405_e3_473,invalid,2,0.352,11 3,224,168,0.173,0.077,0.161,0.002,0.021,43732
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_5_e2_405_e8_1055,invalid,2,0.321,9 1,210,160,0.168,0.068,0.155,0.001,0.018,43612
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_5_e3_11_e1_429,invalid,2,1.96,9 1,270,220,1.344,0.118,1.685,0.001,0.029,142284
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_5_e7_244_e2_693,invalid,2,0.333,11 3,206,150,0.161,0.071,0.153,0.001,0.02,42648
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_6_e2_589_e2_506,invalid,2,0.254,10 1,260,206,0.122,0.081,0.07,0.002,0.019,33828
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_6_e2_589_e3_349,invalid,2,0.278,11 2,269,212,0.14,0.081,0.095,0.001,0.021,35300
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_6_e2_893,invalid,2,0.253,10 1,260,206,0.122,0.082,0.073,0.001,0.02,34348
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_6_e3_294_e1_956,invalid,2,2.113,11 2,324,267,1.448,0.15,1.804,0.003,0.034,144068
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/hysteresis_1,valid,2,0.01,0,4,0,0,0.001,0.002,0,0,30124
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/metros_1_e8_725,valid,2,0.042,1,11,3,0.004,0.007,0.008,0,0.001,33640
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/metros_1_e8_725_e1_919,valid,2,0.041,1,11,3,0.004,0.007,0.007,0,0.001,32572
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/metros_1_e8_725_e2_1144,valid,2,0.039,1,11,3,0.004,0.007,0.007,0,0.001,33764
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/metros_2_e1_1116_e3_287,invalid,2,223.492,20 10,809,723,194.74,0.633,222.29,0.006,0.11,1125772
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/PRODUCER_CONSUMER_2,valid,2,0.028,1,14,6,0.003,0.003,0.004,0,0.001,32040
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/PRODUCER_CONSUMER_3,valid,2,0.047,1,12,4,0.003,0.004,0.017,0,0.001,32596
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/PRODUCER_CONSUMER_all,valid,2,0.049,2,23,12,0.007,0.006,0.017,0,0.001,33284
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/speed_e7_207,valid,2,0.01,0,4,0,0,0.001,0.002,0,0,29612
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/speed_e7_207_e7_538,valid,2,0.009,0,4,0,0,0.001,0.002,0,0,29852
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/speed_e7_207_e8_507,valid,2,0.013,0,4,0,0,0.001,0.002,0,0,29920
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/speed_e8_649,valid,2,0.01,0,4,0,0,0.001,0.002,0,0,29808
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/speed_e8_649_e7_709,valid,2,0.009,0,4,0,0,0.001,0.002,0,0,29360
+experimental-result-main/kind2-benchmarks-master/FunctionalChain/controlLaw/controlLaw,valid,2,0.038,2,15,4,0.002,0.004,0.002,0.001,0.001,34896
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/misc/stalmark,valid,3,0.035,4 2,76,52,0.019,0.016,0.005,0,0.001,29072
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave01,valid,3,0.503,2 0,180,155,0.083,0.054,0.039,0,0.006,84908
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave05,valid,3,1.925,13 8,262,202,0.257,0.11,1.272,0.001,0.022,86920
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave17,valid,3,0.923,10 3,460,409,0.216,0.132,0.099,0.002,0.016,97212
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave19,valid,4,1.564,6 1 0,781,705,0.356,0.205,0.161,0.002,0.027,88892
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave21,valid,3,5.237,16 11,486,402,3.319,0.211,3.217,0.003,0.031,95140
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave22,valid,4,80.251,13 7 3,946,839,56.467,0.479,78.112,0.004,0.066,98732
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave24,valid,3,1.357,6 2,294,256,0.814,0.087,0.747,0.001,0.01,90832
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave26,valid,3,48.646,9 5,442,374,33.05,0.251,47.161,0.002,0.032,94960
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/steam_boiler_no_arr2,valid,3,0.086,2 0,122,105,0.041,0.03,0.012,0,0.007,34088
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/steam_boiler_no_arr2_e1_17214_e5_18600,valid,3,0.112,2 0,122,105,0.064,0.044,0.016,0,0.006,33992
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/steam_boiler_no_arr2_e3_514_e4_11150,valid,3,0.089,2 0,122,105,0.043,0.032,0.012,0,0.006,33824
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/steam_boiler_no_arr2_e6_3003_e4_15091,valid,3,0.089,2 0,122,105,0.045,0.032,0.012,0,0.006,34092
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/steam_boiler_no_arr2_e7_12307,valid,3,0.089,2 0,122,105,0.044,0.032,0.012,0,0.006,33976
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/steam_boiler_no_arr2_e8_21449_e5_18210,valid,3,0.052,1 0,58,45,0.018,0.015,0.006,0,0.004,32956
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_10,valid,2,0.043,2,20,10,0.006,0.007,0.004,0,0.002,59576
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_10_e1_3587_e3_2749,valid,2,0.042,2,20,10,0.006,0.007,0.004,0,0.002,57476
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_10_e1_998,valid,2,0.045,2,20,10,0.007,0.007,0.005,0,0.002,57732
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_10_e2_2785_e3_1744,valid,2,0.044,2,20,10,0.007,0.007,0.004,0,0.002,59792
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_10_e2_402,valid,2,0.041,2,20,10,0.007,0.007,0.004,0,0.002,57704
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_10_e3_144_e5_2046,valid,2,0.041,2,20,10,0.006,0.007,0.004,0,0.002,57784
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_10_e3_3429,valid,2,0.041,2,20,10,0.006,0.006,0.004,0,0.002,57656
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_4,valid,3,0.046,1 0,46,29,0.014,0.011,0.009,0.001,0.002,36912
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3_e1_3233_e3_2970,valid,2,0.066,5,48,29,0.016,0.017,0.01,0.001,0.004,37144
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3_e2_2086_e3_2542,valid,2,0.054,4,37,21,0.013,0.013,0.008,0,0.003,41308
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_a3_e3_314_e2_2812,valid,2,0.052,4,37,21,0.011,0.012,0.009,0,0.003,39088
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_1,valid,2,0.021,1,14,7,0.003,0.003,0.002,0,0.001,39036
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_2_e2_2367_e1_3182,valid,2,0.021,1,9,2,0.001,0.003,0.003,0,0.001,41204
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_all,valid,2,0.065,5,46,27,0.016,0.016,0.011,0,0.003,43004
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_1_e2_162_e7_1545,valid,2,0.015,1,14,7,0.003,0.003,0.002,0,0,32168
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_3,valid,4,0.258,4 1 0,342,285,0.151,0.096,0.088,0.001,0.014,34304
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_3_e2_819_e1_1145,valid,4,0.263,4 1 0,342,285,0.155,0.099,0.089,0.001,0.014,34272
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_3_e2_819_e4_1595,valid,4,0.263,4 1 0,342,285,0.153,0.098,0.089,0.001,0.015,34200
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_3_e3_2669,valid,4,0.222,3 1 0,271,213,0.112,0.08,0.071,0.002,0.013,35456
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_4,valid,3,0.04,1 0,56,39,0.016,0.013,0.006,0,0.002,32808
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_4_e7_1140_e7_433,valid,3,0.049,2 1,66,46,0.021,0.017,0.008,0,0.002,32708
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_all_e4_1147_e7_497,valid,2,0.03,3,34,21,0.01,0.009,0.004,0.001,0.001,33472
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i3_e1_447_e1_1292,valid,3,0.068,7 4,106,77,0.034,0.027,0.012,0.001,0.003,32872
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i3_e1_447_e6_2281,valid,3,0.075,7 4,127,95,0.038,0.031,0.014,0.001,0.004,33020
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_6_e2_1439_e1_954,valid,3,0.045,5 4,65,40,0.017,0.016,0.009,0,0.003,32840
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/SYNAPSE_6_e3_1666_e5_1558,valid,3,0.047,6 4,60,33,0.016,0.017,0.007,0.001,0.003,32592
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_3_e7_334_e2_62,valid,2,0.03,4,33,17,0.01,0.011,0.004,0,0.001,32592
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ex3,valid,3,0.052,4 3,81,59,0.025,0.02,0.009,0.001,0.002,32780
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_2,valid,2,0.033,2,20,10,0.006,0.008,0.004,0.001,0.001,39020
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_7,valid,2,0.068,6,56,34,0.018,0.02,0.009,0.001,0.004,39148
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/ticket3i_7_e1_2192_e1_1852,valid,2,0.112,9,74,43,0.028,0.037,0.014,0.001,0.007,39212
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/peterson_1_e7_4234,valid,2,0.029,1,9,2,0.001,0.003,0.003,0,0.001,57624
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/peterson_4,valid,2,0.043,2,22,12,0.007,0.007,0.005,0.001,0.002,59548
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/peterson_all,valid,2,0.075,4,40,24,0.013,0.017,0.007,0,0.003,57508
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_10,valid,2,0.035,2,22,12,0.006,0.007,0.003,0,0.001,53596
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_3,valid,2,0.035,2,22,12,0.006,0.007,0.004,0,0.001,53472
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_4,valid,2,0.033,2,22,12,0.005,0.007,0.003,0.001,0.001,53404
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_6,valid,2,0.037,2,22,12,0.006,0.007,0.003,0,0.001,55364
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_7,valid,2,0.037,2,22,12,0.006,0.008,0.004,0,0.002,53560
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_8,valid,2,0.035,2,22,12,0.006,0.007,0.004,0,0.001,53364
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_9,valid,2,0.036,2,24,14,0.007,0.007,0.004,0,0.001,53448
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_all,valid,2,0.169,10,94,60,0.039,0.058,0.015,0.001,0.007,63636
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_6_e7_10_e7_341,invalid,4,0.508,12 8 5 2,592,505,0.301,0.247,0.091,0.002,0.034,36264
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_6_e7_399,invalid,3,0.655,16 10 4,748,669,0.413,0.309,0.131,0.002,0.033,36788
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_8,invalid,4,0.834,14 11 7 3,1039,940,0.582,0.404,0.183,0.002,0.055,37648
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_9,invalid,7,2.226,18 14 12 9 6 4 2,2509,2314,1.65,1.004,0.558,0.003,0.188,43684
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_2,valid,4,0.049,2 1 0,92,69,0.028,0.02,0.009,0,0.002,32784
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_2_e7_1027_e1_1047,valid,3,0.04,3 2,58,39,0.016,0.014,0.006,0,0.002,33200
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_2_e7_1027_e7_359,valid,4,0.055,4 3 2,101,74,0.028,0.022,0.01,0,0.003,32780
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_2_e8_491_e7_826,valid,3,0.032,3 2,48,31,0.012,0.011,0.005,0,0.002,32464
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_3,valid,3,0.043,3 2,69,48,0.02,0.017,0.007,0.001,0.002,32696
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_3_e7_626,valid,3,0.035,2 1,56,38,0.014,0.012,0.005,0,0.002,32240
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_3_e8_33,valid,3,0.059,3 2,67,46,0.022,0.022,0.008,0,0.004,32792
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_3_e8_33_e7_220,valid,3,0.04,3 2,63,42,0.017,0.016,0.006,0,0.002,33504
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_all,valid,3,0.088,3 1,149,117,0.047,0.042,0.013,0.001,0.004,33728
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_all_e2_142,valid,3,0.073,2 1,101,71,0.032,0.032,0.01,0.001,0.004,32912
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_all_e2_142_e7_209,valid,3,0.094,4 2,148,110,0.047,0.042,0.013,0.001,0.005,33028
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_all_e3_1068_e4_275,valid,3,0.079,2 1,101,71,0.034,0.033,0.011,0.001,0.004,32748
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_all_e7_188_e7_743,valid,3,0.126,3 1,134,103,0.06,0.054,0.02,0.001,0.008,33748
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_all_e8_856,valid,3,0.096,4 2,153,119,0.051,0.045,0.015,0.001,0.004,33156
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_all_e8_856_e2_585,valid,3,0.117,3 1,150,115,0.062,0.056,0.018,0.001,0.007,33164
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_all_e8_856_e7_578,valid,3,0.163,6 3,183,142,0.081,0.072,0.027,0.002,0.009,33840
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/fast_1,valid,3,0.083,1 0,101,75,0.033,0.032,0.008,0.001,0.006,33404
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/fast_1_e8_747_e8_1041,valid,3,0.074,1 0,94,71,0.03,0.028,0.007,0,0.005,32364
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/fast_1_e8_751,valid,3,0.089,2 1,107,78,0.036,0.036,0.009,0.001,0.007,33516
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/fast_2,valid,3,0.134,2 1,146,108,0.054,0.056,0.012,0.001,0.01,33404
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/fast_2_e8_460_e8_1920,valid,3,0.184,2 1,122,90,0.062,0.066,0.017,0.002,0.015,33440
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/fast_2_e8_976,valid,3,0.123,2 1,131,96,0.045,0.047,0.01,0.001,0.011,33528
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/hysteresis_2,valid,3,0.059,4 3,87,65,0.027,0.024,0.008,0,0.002,32888
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/hysteresis_3,valid,3,0.033,1 0,60,47,0.018,0.015,0.005,0,0.001,32536
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/hysteresis_all,valid,3,0.079,4 2,137,113,0.047,0.037,0.013,0,0.003,32780
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e1_846_e1_1317,valid,4,0.547,7 4 2,739,659,0.346,0.279,0.088,0.002,0.027,35856
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e1_846_e2_1394,valid,4,0.373,4 1 0,622,570,0.268,0.2,0.062,0.001,0.014,35348
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e1_846_e3_1060,valid,3,0.286,12 9,347,299,0.17,0.148,0.044,0.003,0.012,34752
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e2_1102_e1_317,valid,6,1.569,10 6 5 3 2,2199,2072,1.278,0.839,0.318,0.003,0.066,40964
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e2_1102_e7_1163,valid,5,0.866,8 5 4 3,1173,1057,0.599,0.446,0.154,0.005,0.045,37024
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e2_627,valid,4,0.56,8 5 4,718,637,0.353,0.301,0.088,0.003,0.029,35828
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e7_606,valid,5,1.204,20 14 13 10,1779,1662,0.913,0.641,0.207,0.004,0.058,38672
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e8_725,valid,3,0.128,2 0,203,181,0.085,0.064,0.02,0.001,0.005,34312
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e8_725_e1_919,valid,3,0.078,1 0,109,92,0.046,0.038,0.012,0,0.003,34032
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e8_725_e2_1144,valid,3,0.081,1 0,109,92,0.047,0.039,0.013,0.001,0.003,33824
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e8_725_e3_556,valid,3,0.279,4 0,397,367,0.211,0.152,0.048,0.001,0.009,34440
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e1_1116_e7_1440,invalid,3,5.415,53 32 15,4146,3929,4.306,3.272,0.933,0.01,0.206,93680
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_3_e3_1275_e2_454,valid,3,0.192,9 6,256,217,0.114,0.096,0.031,0.002,0.009,33860
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_3_e3_1275_e3_640,valid,3,0.299,14 9,411,347,0.171,0.151,0.045,0.002,0.016,34672
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_3_e4_987_e3_291,invalid,4,62.892,87 74 28 9,15354,14964,54.636,38.838,13.661,0.014,2.684,600000
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e2_968_e2_1166,valid,3,0.197,11 8,268,223,0.11,0.097,0.028,0.002,0.01,33664
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e3_1091_e2_1317,valid,3,0.175,9 6,256,217,0.103,0.089,0.027,0.001,0.008,34520
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e3_1091_e3_522,valid,4,0.345,7 4 2,538,473,0.222,0.175,0.059,0.002,0.017,34896
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed2,valid,3,0.051,4 3,81,59,0.024,0.02,0.008,0.001,0.002,32896
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed2_e7_223_e7_213,valid,3,0.04,3 2,66,47,0.019,0.016,0.007,0,0.002,33316
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed2_e7_223_e8_329,valid,3,0.05,4 3,81,59,0.024,0.02,0.009,0.001,0.002,32568
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed2_e7_496,valid,3,0.041,3 2,66,47,0.018,0.016,0.006,0,0.002,32400
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed2_e8_449,valid,3,0.037,3 2,64,45,0.016,0.016,0.005,0,0.002,33056
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed2_e8_449_e7_353,valid,3,0.047,4 3,79,57,0.022,0.019,0.007,0.001,0.002,32792
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/speed2_e8_449_e8_517,valid,3,0.057,5 3,84,55,0.025,0.027,0.007,0.001,0.002,32768
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/microwave01,valid,3,0.433,1 0,85,67,0.058,0.022,0.053,0,0.003,87124
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/microwave17,valid,3,307.932,7 3,246,201,250.305,0.092,306.85,0.002,0.019,340032
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/microwave19,valid,3,4.389,6 3,138,99,3.411,0.063,3.853,0.002,0.015,197924
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/microwave21,valid,3,292.708,15 12,316,236,157.884,0.202,289.756,0.006,0.075,1138220
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/microwave29,valid,3,20.446,8 5,158,113,14.873,0.081,19.163,0.002,0.023,506092
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/steam_boiler_no_arr2,valid,3,0.079,1 0,49,35,0.016,0.011,0.009,0,0.005,34220
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/steam_boiler_no_arr2_e1_17214_e5_18600,valid,3,0.075,1 0,49,35,0.015,0.011,0.009,0,0.005,34172
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/steam_boiler_no_arr2_e3_514_e4_11150,valid,3,0.078,1 0,49,35,0.017,0.012,0.01,0,0.005,34224
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/steam_boiler_no_arr2_e6_3003_e4_15091,valid,3,0.08,1 0,49,35,0.017,0.012,0.01,0,0.005,34256
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/steam_boiler_no_arr2_e7_12307,valid,3,0.081,1 0,49,35,0.018,0.011,0.011,0,0.005,34248
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/large/steam_boiler_no_arr2_e8_21449_e5_18210,valid,3,0.08,1 0,49,35,0.017,0.012,0.01,0,0.005,34216
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/SYNAPSE_6,valid,3,412.777,3 1,84,60,276.92,0.036,412.688,0.001,0.006,192792
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/ticket3i_all,valid,2,0.128,6,56,33,0.02,0.018,0.016,0.001,0.005,39224
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/swimmingpool_8,invalid,3,0.713,5 2 1,171,129,0.407,0.076,0.515,0.001,0.021,77564
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_2,valid,3,0.069,2 1,54,35,0.031,0.012,0.031,0,0.002,34292
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_2_e7_1027_e1_1047,valid,3,0.074,3 2,51,29,0.026,0.011,0.032,0.001,0.003,34568
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_2_e7_1027_e7_359,valid,3,0.062,2 1,49,30,0.024,0.011,0.025,0,0.002,34104
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_2_e8_491_e7_826,valid,3,0.063,2 1,45,26,0.023,0.011,0.026,0,0.002,33884
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_3,valid,3,0.062,2 1,56,37,0.024,0.013,0.022,0,0.002,33268
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_3_e7_626,valid,3,0.056,2 1,50,31,0.02,0.011,0.02,0,0.002,33464
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_3_e8_33,valid,3,0.061,2 1,56,37,0.026,0.013,0.022,0,0.002,33472
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_3_e8_33_e7_220,valid,3,0.057,2 1,47,28,0.021,0.01,0.02,0,0.002,33340
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_4,valid,3,0.054,2 1,58,39,0.02,0.013,0.015,0,0.002,33364
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_4_e3_57_e6_784,valid,3,0.057,2 1,58,39,0.02,0.012,0.015,0,0.002,33268
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_4_e7_592,valid,3,0.046,2 1,41,22,0.012,0.009,0.011,0,0.002,33108
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_4_e7_592_e7_265,valid,3,0.054,2 1,54,35,0.02,0.013,0.015,0,0.002,33324
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_4_e8_118,valid,3,0.053,2 1,56,37,0.018,0.012,0.013,0,0.002,33124
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_4_e8_118_e7_178,valid,3,0.049,3 2,42,22,0.013,0.009,0.013,0,0.003,33232
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_all,valid,3,0.2,6 4,148,112,0.099,0.042,0.092,0.001,0.008,39592
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_all_e2_142,valid,3,0.165,5 3,122,85,0.074,0.036,0.067,0.002,0.006,36420
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_all_e2_142_e7_209,valid,3,0.161,8 7,103,60,0.057,0.036,0.056,0.002,0.008,35772
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_all_e3_1068_e4_275,valid,3,0.164,5 3,122,85,0.071,0.036,0.064,0.002,0.006,36740
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_all_e7_188_e7_743,valid,3,0.242,8 5,165,121,0.108,0.05,0.105,0.001,0.01,39736
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_all_e8_856,valid,3,0.23,8 6,164,122,0.107,0.048,0.103,0.001,0.009,40284
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_all_e8_856_e2_585,valid,3,0.123,3 2,95,66,0.054,0.029,0.043,0.001,0.004,35316
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_all_e8_856_e7_578,valid,3,0.271,9 7,175,132,0.147,0.054,0.133,0.001,0.009,43280
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/fast_1,valid,3,0.102,2 1,104,74,0.034,0.031,0.01,0.001,0.006,33444
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/fast_1_e8_747_e8_1041,valid,3,0.088,2 1,91,64,0.029,0.025,0.008,0,0.006,32952
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/fast_1_e8_751,valid,3,0.097,2 1,96,66,0.031,0.029,0.01,0.001,0.006,33616
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/fast_2,valid,3,0.184,3 1,196,154,0.071,0.064,0.019,0.001,0.012,33412
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/fast_2_e8_460_e8_1920,valid,3,0.142,2 1,138,102,0.049,0.046,0.013,0.001,0.01,33408
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/fast_2_e8_976,valid,3,0.139,2 1,130,94,0.046,0.044,0.012,0.001,0.01,33668
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/hysteresis_2,valid,3,0.081,4 3,73,50,0.035,0.018,0.032,0,0.003,35008
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/hysteresis_3,valid,3,0.068,4 3,73,50,0.026,0.016,0.02,0,0.002,33216
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/hysteresis_all,valid,3,0.139,7 5,133,99,0.07,0.035,0.058,0.001,0.004,36660
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/metros_1_e8_725_e3_556,valid,3,0.184,1 0,114,96,0.121,0.04,0.101,0,0.003,69012
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/speed2_e8_449,valid,3,0.045,3 2,54,34,0.014,0.011,0.008,0,0.002,33228
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/speed2_e8_449_e8_517,valid,3,0.076,7 4,96,61,0.029,0.023,0.016,0.001,0.003,33132
+experimental-result-main/kind2-benchmarks-master/FunctionalChain/triplexVoter/triplexVoter_str,valid,3,0.741,3 0,294,245,0.325,0.239,0.236,0.001,0.017,35740
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/misc/_6counter2,invalid,4,0.045,3 2 1 0,98,52,0.016,0.016,0.007,0.001,0.005,29260
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/misc/stalmark_e7_27,valid,4,0.038,6 5 3,91,58,0.019,0.015,0.006,0.001,0.002,29076
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/misc/stalmark_e7_27_e7_31,valid,4,0.037,6 5 3,91,58,0.019,0.015,0.006,0.001,0.002,29108
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/misc/stalmark_e7_76,valid,4,0.036,6 5 3,91,58,0.019,0.016,0.006,0.001,0.002,29224
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave27,valid,3,295.664,8 4,395,318,256.643,0.376,294.302,0.003,0.045,116456
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_5,valid,4,0.269,10 7 4,295,241,0.125,0.075,0.065,0.002,0.022,57608
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_5_e1_1835,valid,4,0.303,11 8 5,338,279,0.139,0.086,0.069,0.001,0.023,59516
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_5_e2_3018_e2_936,valid,4,0.281,11 8 5,305,249,0.127,0.078,0.063,0.001,0.023,57500
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all2,valid,4,0.908,16 12 7,794,694,0.424,0.288,0.188,0.002,0.048,70116
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e1_6463,valid,4,1.262,20 15 9,1208,1091,0.674,0.418,0.303,0.004,0.065,71972
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e2_5774,valid,5,1.225,20 16 15 9,1038,905,0.588,0.373,0.267,0.004,0.077,70352
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_4_e3_3511,valid,3,0.111,6 3,128,95,0.049,0.034,0.027,0.001,0.007,39156
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e2_1923,valid,4,0.151,7 5 3,192,150,0.078,0.049,0.041,0.001,0.012,36944
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e3_422,valid,4,0.152,7 5 3,192,150,0.079,0.05,0.044,0.001,0.011,36864
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e5_3248,valid,4,0.15,7 5 3,190,148,0.079,0.051,0.04,0.001,0.011,36984
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_6,valid,4,0.188,10 8 5,315,259,0.106,0.069,0.042,0.001,0.014,34780
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_6_e2_3302,valid,4,0.222,11 8 5,366,306,0.128,0.083,0.051,0.001,0.016,37044
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_2,valid,4,0.226,11 9 5,371,307,0.129,0.087,0.048,0.001,0.017,34780
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_2_e2_1375_e1_418,valid,4,0.228,11 9 5,371,307,0.129,0.085,0.049,0.002,0.017,35032
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_2_e7_1826_e8_126,valid,4,0.227,11 9 5,371,307,0.132,0.088,0.05,0.001,0.017,34804
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_rt,valid,5,0.325,14 12 9 5,493,398,0.175,0.117,0.072,0.002,0.027,36868
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_rt_e3_1770_e2_637,valid,4,0.277,11 9 5,436,364,0.156,0.105,0.059,0.002,0.02,37020
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_a1,valid,4,0.238,10 8 4,335,269,0.124,0.079,0.056,0.002,0.016,41156
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_3_e1_2517_e8_2163,valid,5,0.425,7 5 1 0,609,525,0.268,0.173,0.129,0.001,0.027,35812
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_3_e2_819_e6_1459,valid,5,0.432,9 7 4 1,612,521,0.263,0.167,0.136,0.002,0.03,35920
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/_6counters_e8_371_e7_304,invalid,4,0.617,17 14 11 8,1070,952,0.446,0.311,0.116,0.003,0.045,36056
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_all_e7_2500,valid,2,0.243,14,133,87,0.054,0.07,0.021,0.002,0.011,61584
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/swimmingpool_1,invalid,4,0.36,8 6 4 2,416,338,0.202,0.144,0.091,0.001,0.03,35276
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1,valid,4,0.712,11 7 4,1067,987,0.52,0.387,0.123,0.002,0.028,36624
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e2_1102_e2_943,valid,4,0.551,11 7 6,828,752,0.372,0.299,0.085,0.002,0.025,35956
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e2_1102_e3_961,valid,3,0.327,14 9,449,391,0.195,0.176,0.047,0.002,0.014,34988
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e7_1255_e7_12,valid,4,0.58,14 9 7,884,801,0.397,0.305,0.094,0.002,0.029,35828
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e2_704_e1_389,invalid,8,7.734,22 16 12 9 7 5 3 0,6496,6137,5.733,4.442,1.266,0.01,0.75,94280
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e2_704_e2_13,valid,4,0.56,8 4 2,842,752,0.375,0.301,0.093,0.003,0.027,36232
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e2_704_e7_810,invalid,2,1.24,22 10,1031,939,0.849,0.726,0.2,0.004,0.053,40960
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e3_112,invalid,5,10.305,63 50 37 23 8,7143,6813,8.026,6.122,1.824,0.009,0.622,171120
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_3_e3_1275,invalid,20,93.385,67 60 44 35 33 30 28 26 24 22 20 18 16 14 12 10 8 6 4 1,31240,30054,70.691,48.253,20.416,0.014,13.33,564608
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_3_e3_1275_e7_529,invalid,4,24.297,61 38 14 7,9320,9012,20.393,15.642,4.248,0.012,1.061,324912
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e2_968_e3_931,valid,3,0.292,13 8,416,356,0.176,0.154,0.043,0.002,0.014,35216
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e3_1025,invalid,6,54.481,80 59 35 26 20 15,23183,22678,46.065,31.893,12.09,0.021,3.746,565660
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e3_1091_e1_1044,invalid,4,23.039,82 74 39 16,9569,9259,19.725,14.606,4.347,0.014,0.847,321892
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_5,valid,4,55.484,12 9 5,368,307,41.232,0.123,55.093,0.002,0.044,194008
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_5_e1_1835,valid,4,60.148,9 7 4,246,198,53.397,0.085,59.869,0.002,0.029,149096
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/DRAGON_5_e2_3018_e2_936,valid,4,47.605,11 9 5,392,333,33.836,0.133,47.226,0.002,0.033,227296
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/ILLINOIS_a1,valid,4,0.824,14 10 5,332,259,0.475,0.081,0.559,0.002,0.025,63556
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MESI_1,valid,4,0.124,2 1 0,102,73,0.063,0.021,0.068,0,0.004,37120
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MESI_1_e2_162_e7_1545,valid,4,0.541,6 5 3,184,138,0.335,0.045,0.423,0.001,0.01,62296
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MESI_4,valid,4,0.132,2 1 0,108,79,0.071,0.024,0.071,0,0.004,37584
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MESI_4_e7_1140_e7_433,valid,4,0.511,4 3 2,160,115,0.291,0.039,0.407,0.001,0.009,60576
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/MESI_all,valid,4,0.178,3 2 0,162,127,0.092,0.037,0.081,0.001,0.005,38404
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/peterson_1,valid,4,0.14,2 1 0,101,72,0.052,0.024,0.05,0,0.008,55548
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/peterson_2,valid,4,0.156,2 1 0,101,72,0.055,0.026,0.052,0,0.009,55660
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/peterson_3,valid,4,0.134,2 1 0,104,75,0.047,0.021,0.048,0,0.008,55588
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/peterson_4,valid,4,0.143,2 1 0,104,75,0.055,0.025,0.051,0,0.009,55644
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_10,valid,4,0.114,2 1 0,106,77,0.043,0.021,0.039,0,0.006,53580
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_3,valid,4,0.117,2 1 0,108,79,0.047,0.023,0.042,0,0.006,53440
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_4,valid,4,0.114,2 1 0,108,79,0.044,0.023,0.039,0,0.006,53588
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_5,valid,4,0.113,2 1 0,106,77,0.042,0.021,0.039,0,0.006,53616
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_6,valid,4,0.115,2 1 0,108,79,0.045,0.023,0.039,0,0.006,53608
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_7,valid,4,0.114,2 1 0,108,79,0.044,0.023,0.039,0,0.006,53540
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_8,valid,4,0.117,2 1 0,108,79,0.046,0.023,0.042,0,0.006,53528
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_9,valid,4,0.114,2 1 0,106,77,0.044,0.02,0.039,0,0.006,53436
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/swimmingpool_6,invalid,3,1.26,9 6 3,260,199,0.821,0.103,0.99,0.002,0.027,92692
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/car_1,valid,4,0.1,2 1 0,119,90,0.052,0.025,0.039,0,0.004,35164
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/metros_1_e1_846_e2_1394,valid,4,494.099,12 9 4,1051,944,438.803,0.577,493.021,0.006,0.081,712156
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/simulation/PRODUCER_CONSUMER_1,valid,4,0.111,2 1 0,121,92,0.061,0.026,0.046,0,0.004,33568
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/misc/_6counter,invalid,5,0.146,7 5 3 2 1,379,306,0.099,0.068,0.025,0,0.01,29976
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/simulation/tramway,valid,5,0.274,7 5 4 2,546,472,0.17,0.122,0.041,0.002,0.02,31524
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Bool/simulation/tramway_e7_1834_e8_3192,valid,5,0.275,7 5 4 2,546,472,0.172,0.12,0.041,0.002,0.02,31676
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_12,valid,6,2.07,29 26 22 18 10,2316,2145,1.494,0.79,0.622,0.008,0.11,59624
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_12_e2_1618,valid,6,1.793,14 11 8 5 4,2145,2005,1.36,0.737,0.559,0.003,0.1,57544
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_12_e2_1618_e3_2012,valid,5,0.911,10 8 6 4,1100,996,0.608,0.328,0.269,0.003,0.044,57692
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_4_e1_4312,valid,4,1.178,30 24 11,1418,1283,0.735,0.435,0.303,0.004,0.068,57660
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_4_e2_2799_e3_1915,valid,6,2.363,14 8 2 1 0,2993,2787,1.693,0.922,0.677,0.005,0.16,57476
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_4_e3_1540_e1_5048,valid,5,1.898,15 6 2 1,2399,2250,1.399,0.762,0.545,0.003,0.099,57736
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_8_e3_786_e7_4541,valid,4,4.92,44 43 22,3864,3721,4.129,2.979,0.961,0.007,0.06,98580
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e3_1543,valid,4,0.837,18 14 8,810,713,0.395,0.249,0.189,0.003,0.042,71948
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e4_3719,valid,6,2.753,26 22 20 17 11,2707,2527,1.93,1.053,0.836,0.003,0.146,69912
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e5_3642,valid,5,1.042,20 16 15 9,931,810,0.472,0.312,0.213,0.003,0.062,72160
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_3,valid,6,0.878,27 24 21 18 9,1287,1133,0.588,0.364,0.221,0.004,0.067,36956
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_luke_3_e1_2217_e3_1200,valid,6,0.861,26 23 20 17 8,1220,1068,0.574,0.335,0.252,0.004,0.066,36912
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_u1_e2_3403_e2_957,valid,5,0.603,14 10 9 8,997,893,0.423,0.252,0.15,0.003,0.035,36912
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/ILLINOIS_r4a,valid,5,0.501,14 10 7 5,811,713,0.324,0.189,0.135,0.002,0.034,38936
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i4_e6_2175,valid,5,0.264,17 15 12 7,478,385,0.162,0.115,0.059,0.003,0.015,33896
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory2/MESI_i4_e7_1017_e6_1132,valid,5,0.415,9 7 4 3,753,642,0.285,0.19,0.096,0.002,0.025,35024
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/two_counters,valid,6,0.478,27 25 23 18 11,1029,887,0.348,0.233,0.093,0.003,0.027,35372
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_1_e1_846_e7_397,valid,4,0.692,12 6 5,1061,968,0.48,0.364,0.119,0.002,0.034,36252
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e2_968_e4_801,invalid,4,13.714,72 49 32 12,7669,7367,11.084,8.582,2.336,0.009,0.692,176592
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e2_968_e5_991,invalid,4,14.711,76 57 36 13,7846,7533,11.804,9.081,2.579,0.012,0.787,175700
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_luke_2,valid,6,5.851,19 17 15 11 6,753,631,4.627,0.216,5.289,0.005,0.083,141416
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_luke_2_e2_1375_e1_418,valid,6,5.366,19 17 15 11 6,740,618,4.138,0.205,4.821,0.004,0.08,144124
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_luke_2_e7_1826_e8_126,valid,6,5.844,19 17 15 11 6,746,624,4.642,0.217,5.285,0.004,0.081,146484
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory2/ILLINOIS_r4a,valid,5,113.093,15 12 11 5,777,674,71.866,3.577,102.64,0.003,0.094,426608
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/peterson_all,valid,4,1.42,8 4 0,607,542,0.955,0.172,0.963,0.001,0.049,83624
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_12_e2_1618_e1_6030,valid,6,1.282,23 21 19 15 8,1529,1376,0.845,0.457,0.37,0.004,0.079,57776
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_12_e2_1618_e2_138,valid,5,0.517,10 7 6 4,635,554,0.305,0.171,0.143,0.001,0.031,57536
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_u1,valid,6,0.52,15 13 12 10 6,854,743,0.342,0.208,0.125,0.002,0.04,39052
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e1_1116_e2_617,valid,4,0.436,9 6 2,719,646,0.299,0.231,0.07,0.002,0.021,35696
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e2_968_e1_956,invalid,3,5.672,56 38 16,4583,4368,4.534,3.443,0.999,0.01,0.242,99768
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_6,valid,6,5.891,23 21 18 13 7,831,695,4.502,0.256,5.218,0.004,0.088,131636
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_6_e2_3302,valid,6,78.396,24 22 19 14 8,941,797,58.308,0.33,77.535,0.005,0.132,290872
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/memory1/FIREFLY_u1,valid,6,27.957,25 23 19 13 7,1354,1202,23.612,0.511,26.738,0.006,0.159,310660
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/two_counters,valid,6,0.505,24 22 20 16 9,838,697,0.332,0.162,0.179,0.003,0.05,34340
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_13_e3_1418_e3_2761,valid,6,3.777,42 37 32 22 10,3802,3544,2.758,1.442,1.235,0.006,0.249,60008
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_4,valid,5,1.743,38 33 23 12,2140,1952,1.147,0.638,0.473,0.004,0.121,57464
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_4_e2_2799_e1_1303,valid,5,1.869,41 36 24 12,2216,2022,1.21,0.68,0.515,0.005,0.133,59784
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_4_e2_2799_e2_2251,valid,6,3.367,32 27 20 14 10,3937,3695,2.425,1.387,0.933,0.005,0.232,59156
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_4_e3_4133,valid,5,1.741,34 28 22 10,2220,2038,1.182,0.655,0.5,0.005,0.117,57604
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/FIREFLY_7,valid,5,8.65,68 58 41 22,7520,7202,6.978,4.516,2.226,0.012,0.435,94212
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e1_1116_e1_556,invalid,7,6.272,50 40 36 31 26 18 8,6589,6247,4.815,3.581,1.062,0.01,0.471,93188
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/_6counters,invalid,9,4.509,36 33 29 26 23 22 20 19 14,3592,3276,3.21,0.882,2.474,0.003,0.628,54956
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_4_e2_2799,valid,5,1.931,42 36 27 14,2400,2203,1.289,0.734,0.524,0.007,0.127,57704
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/twisted_counters,valid,6,0.808,21 19 15 12 9,1691,1540,0.625,0.408,0.163,0.003,0.04,37196
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/protocol/rtp_vt,valid,9,22.949,107 106 104 101 96 91 81 68,14728,14000,17.724,8.392,9.114,0.024,2.112,166712
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_6_e1_152_e1_391,valid,7,0.905,18 17 14 13 11 5,1642,1472,0.679,0.451,0.181,0.005,0.051,37800
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/cd,valid,9,3.686,30 28 26 24 21 17 12 6,5500,5011,2.652,1.744,0.725,0.017,0.357,58064
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/misc/twisted_counters,valid,6,1.398,28 25 21 18 14,1763,1561,1.019,0.425,0.598,0.004,0.113,42064
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/_6counters,invalid,9,2.983,35 32 28 25 21 20 17 16 11,4735,4383,2.242,1.375,0.614,0.006,0.331,58396
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e7_244_e1_823,valid,15,16.841,41 39 37 34 32 30 29 27 26 24 23 19 12 7,17056,16328,12.943,9.381,2.614,0.016,2.066,160844
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e1_190,valid,9,12.376,18 13 9 7 6 5 4 2,11768,11291,9.966,7.076,2.23,0.013,0.975,163876
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int32/protocol/rtp_all,valid,4,9.481,16 8 0,2091,1978,7.009,0.808,7.691,0.003,0.168,221316
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2_e2_968,invalid,3,6.695,64 40 14,5309,5044,5.25,3.988,1.163,0.011,0.348,93288
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_3_e3_1275_e1_1350,invalid,4,26.36,104 92 63 25,12668,12300,22.427,16.229,5.322,0.017,1.103,324480
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5_e7_244,valid,14,27.42,36 34 31 29 27 24 23 21 16 15 13 9 5,20886,20168,21.533,14.417,5.622,0.037,3.093,161976
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_6_e1_152,valid,9,2.602,23 22 19 18 15 13 11 5,4076,3816,2.107,1.296,0.562,0.005,0.17,58756
+experimental-result-main/kind2-benchmarks-master/FunctionalChain/relatedCounters/relatedCounters_small_bounds,valid,12,5.765,10 9 8 7 6 5 4 3 2 1 0,7281,6972,4.999,3.315,1.176,0.003,0.358,96968
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_6,valid,14,21.282,36 34 30 28 25 23 21 18 14 13 12 9 4,19888,19124,16.428,10.496,4.719,0.02,2.771,163588
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e2_968_e6_236,invalid,2,9.739,45 9,5082,4904,8.068,6.393,1.634,0.005,0.382,175024
+experimental-result-main/kind2-benchmarks-master/FunctionalChain/relatedCounters/relatedCounters_small,valid,14,9.027,13 11 10 9 8 7 6 5 4 3 2 1 0,10215,9754,7.436,4.957,1.851,0.007,0.834,99768
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/car_5,valid,14,24.194,45 43 40 38 36 32 31 29 26 25 21 14 8,20832,20129,19.012,12.65,5.053,0.018,2.811,161976
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_2,valid,14,106.436,37 33 28 25 23 20 17 14 11 9 7 6 2,48734,47633,78.361,50.381,23.095,0.031,21.557,572848
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_3_e4_987_e2_80,invalid,4,22.271,79 62 25 11,9100,8767,18.227,13.83,4.089,0.011,1.089,329216
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_4_e2_968_e7_860,invalid,4,128.75,219 184 117 50,36373,35556,103.974,65.196,34.095,0.035,14.069,645368
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/misc/durationThm_3_e7_334,invalid,2,0.04,1 0,37,14,0.011,0.014,0.005,0,0.004,32864
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/simulation/metros_3_e3_1275_e5_846,invalid,4,46.621,144 106 63 22,19860,19337,38.948,27.069,10.575,0.022,2.786,619988
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_8_e7_3752,valid,5,8.023,50 49 43 22,5278,5101,6.941,5.002,1.6,0.009,0.101,105416
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave29,valid,3,1.58,8 3,352,310,0.858,0.11,0.791,0.001,0.011,88700
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/memory1/DRAGON_8,valid,5,4.095,36 35 7 4,2744,2599,3.179,2.318,0.83,0.006,0.089,95312
+experimental-result-main/kind2-benchmarks-master/FMCAD08/Int/large/microwave30,valid,3,4.801,9 4,379,331,1.197,0.122,3.962,0.001,0.016,90936
